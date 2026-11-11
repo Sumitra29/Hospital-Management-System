@@ -31,7 +31,6 @@ A web-based Hospital Management System developed using PHP and MySQL.
 | Dashboard Layout | ✅ Completed |
 | Header & Footer | ✅ Completed |
 | Sidebar Navigation | ✅ Completed |
-| CRUD Operations | 🔄 Upcoming |
 
 ## 💻 Installation & Setup
 
